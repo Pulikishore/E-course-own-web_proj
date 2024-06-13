@@ -1,0 +1,2276 @@
+/* @media  (max-width: 1050px){
+
+    .logo  a {
+            font-size: 19px;
+            left: 10px;}
+
+            .angular{
+                width: 78%;
+            }
+
+            .angular ul {
+                width: 40%;
+                gap: 15px;
+                padding: 8px;
+                justify-content: flex-start;
+                margin-left: 19.5em;}
+
+            .angular ul a{
+                font-size: 16px;
+            }
+
+            .angular .join {
+                right: -9em;}
+
+                .pic {
+                    margin: 5px;
+                    width: 78vw;
+                    height: 23em;
+                    background-size: 100% 100%;
+                }
+
+                .pic a{
+                    margin-left: 39em;
+                }
+
+                .pic p:nth-child(1) {
+                    padding: 4em 0em .5em 4em}
+
+                 
+
+                    .pic p:nth-child(2) {
+                        padding: 6px 0em 0.5em 1em;}
+
+                .pic p:nth-child(2) {
+                    padding: 7px 0em 0.5em 1em;}
+
+
+                .about img{
+                    width: 55%;
+                    padding: 2em 1em;
+                    text-align: center;
+                    margin-left: 7em;
+                }
+
+                .aboutcontent .social i:nth-child(1) {
+                    padding-left: 10%;
+                    margin-left: 15em;
+                }
+
+                .aboutcontent p:nth-child(1) {
+                        width: 60%;
+                }
+
+                .aboutcontent p:nth-child(2) {
+                    width: 95%;
+
+                }
+
+                .aboutcontent p:nth-child(3) {
+                    width: 95%;
+
+                }
+
+                .about .aboutcontent {
+                    padding: 40px;
+                    text-align: justify;
+                    width: 70%;
+                }
+
+                .row {
+                    display: flex;
+                    width: 78vw;
+                    flex-wrap: wrap;
+                }
+
+                .features {
+                    width: 29vw;
+                position: relative;}
+
+                .features-1 {
+                    width: 29vw;
+                position: absolute;
+            left: 39%;}
+
+            .features-1 p{
+                padding: 13px;
+            }
+
+            .features-2 {
+                width: 68vw;
+                height: 65vh;}
+
+                .features-2 img {
+                    width: 123px;
+                    padding-left: 41%;}
+      
+                    .features-2 a{
+                        margin-left: 42%;
+                    }
+
+}
+     */
+
+
+@media (max-width: 1050px) {
+
+    .logo a {
+        font-size: 24px;
+    }
+
+    .angular ul {
+        width: 50%;
+        gap: 25px;
+        padding: 8px;
+
+        margin-left: 24em;
+    }
+
+    .angular .join {
+        right: -5em;
+    }
+
+    .pic p:nth-child(2) {
+        padding: 5px 0em 0.5em 2em;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 50em;
+    }
+
+    .aboutcontent .social i:nth-child(1) {
+        padding-left: 7%;
+    }
+
+    .features {
+        height: 91%;
+    }
+
+    .features-1 {
+        height: 92%;
+    }
+
+    .features-2 {
+        height: 91%;
+    }
+
+    .features img {
+        width: 130px;
+        padding-left: 28%;
+    }
+
+    .features-1 img {
+        width: 130px;
+        padding-left: 28%;
+    }
+
+    .features-2 img {
+        width: 120px;
+        padding-left: 28%;
+    }
+
+    .features-1 p {
+        padding: 14px;
+    }
+
+    .service-1 p {
+
+        padding: 5px;
+    }
+
+    .service-2 p {
+
+        padding: 5px;
+    }
+
+    .img-box:hover {
+        width: 300px;
+        cursor: pointer;
+    }
+
+    .army-chief p {
+        padding: 5px;
+    }
+
+    .form {
+        margin: 0px 40px 2em;
+    }
+
+    .form [type=submit] {
+        margin-left: 9em;
+    }
+
+    .form [type=submit]:hover {
+        width: 250px;
+    }
+
+    .follow h2 {
+        margin-bottom: .8em;
+    }
+
+    .follow-1 p {
+        padding: 5px;
+    }
+
+    .army-chief img {
+        padding: 5px;
+        width: 65%;
+    }
+}
+
+@media (max-width: 1000px) {
+
+    .logo a {
+        font-size: 23px;
+    }
+
+    .angular ul {
+        margin-left: 23em;
+    }
+
+        .angular {
+        width: 98%;
+    }
+
+    .angular .join {
+        right: -5em;
+    }
+
+    .pic p:nth-child(2) {
+        padding: 5px 0em 0.5em 2em;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 46em;
+    }
+     .pic {
+        width: 98vw;
+    }
+
+    .aboutcontent .social i:nth-child(1) {
+        padding-left: 6%;
+    }
+
+    .features {
+        height: 91%;
+    }
+
+    .features-1 {
+        height: 91%;
+    }
+
+    .features-2 {
+        height: 91%;
+    }
+
+    .features img {
+        width: 130px;
+        padding-left: 26%;
+    }
+
+    .features-1 img {
+        width: 130px;
+        padding-left: 26%;
+    }
+
+    .features-2 img {
+        width: 115px;
+        padding-left: 28%;
+    }
+
+    .features-1 p {
+        padding: 11px;
+    }
+
+    .service-1 p {
+
+        padding: 10px;
+    }
+
+    .service-2 p {
+
+        padding: 7px;
+    }
+
+    .service {
+        height: 56%;
+    }
+
+    .service-1 {
+        height: 56%;
+    }
+
+    .service-2 {
+        height: 56%;
+    }
+
+    .service-3 {
+        height: 57%;
+    }
+
+    .service-3 {
+        padding-bottom: 15px;
+    }
+
+    .servic-4 {
+        height: 56vh;
+    }
+
+    .service-4 {
+        padding-bottom: 35px;
+    }
+
+    .service-5 {
+        height: 56%;
+    }
+
+
+    .img-box:hover {
+        width: 290px;
+        cursor: pointer;
+    }
+
+    .army-chief p {
+        padding: 2px;
+    }
+
+    .form {
+        margin: 0px 40px 2em;
+    }
+
+    .form [type=submit] {
+        margin-left: 8em;
+    }
+
+    .form [type=submit]:hover {
+        width: 230px;
+    }
+
+    .follow h2 {
+        margin-bottom: .8em;
+
+    }
+
+    .follow-1 h2 {
+        font-size: 28px;
+    }
+
+    .follow-1 p {
+        padding: 5px;
+        letter-spacing: 0px;
+    }
+
+    .army-chief img {
+        padding: 5px;
+        width: 65%;
+    }
+}
+
+@media (max-width: 950px) {
+
+    .angular .join {
+        right: -4.5em;
+    }
+
+    .angular ul {
+        gap: 15px;
+        margin-left: 22em;
+    }
+
+     .pic {
+        width: 98vw;
+    }
+
+    .aboutcontent p:nth-child(3) {
+        margin-bottom: 0.5em;
+    }
+
+    .aboutcontent .social i:nth-child(1) {
+        padding-left: 3%;
+    }
+
+    .service-1 p {
+        padding: 7px;
+    }
+
+    .service-4 {
+        padding-bottom: 85px;
+    }
+
+    .service-5 {
+        padding: 13px;
+    }
+
+    .img-box {
+        width: 135px;
+    }
+
+    .img-box p {
+        opacity: -0.8;
+    }
+
+    .army-chief a {
+        font-size: 23px;
+    }
+
+    .form textarea {
+        width: 380px;
+    }
+
+    .form input {
+        width: 380px;
+    }
+
+    .form [type=submit] {
+        margin-left: 7em;
+    }
+
+    .form [type=submit]:hover {
+        width: 200px;
+    }
+
+    .follow-1 h2 {
+        font-size: 26px;
+    }
+
+    .follow-2 p {
+        padding: 7px;
+    }
+
+}
+
+
+@media (max-width: 900px) {
+
+    .angular ul li{
+        display: none;
+    }
+    
+    .dropbtn{
+        display: none;
+    }
+
+    .angular ul {
+       margin-left: 20em;
+    }
+
+    .angular input[type="checkbox"]{
+        display: block;
+        margin-left: 19em;
+        margin-top:8px;
+      }
+      .angular .checkbtn{
+      display:block;
+      }
+
+      .checkbtn {
+        display: inline-block;
+      }
+
+      .hamburger {
+        display: inline-block;}
+
+
+        .checkbtn {
+           
+            top: 2rem;
+            right: 9rem;
+        }
+        /* .hamburger ul li {
+            display: block;
+        } */
+
+        .hamburger ul li a {
+            display: block;
+        }
+
+        /* .hamburger ul li a:hover {
+            display: block;
+        } */
+
+        
+#check:checked~.hamburger {
+    display: block;
+}
+
+.pic a {
+    margin: 1em 2em 0em 41em;
+}
+
+ .pic {
+        width: 98vw;
+    }
+.aboutcontent .social i:nth-child(1) {
+    padding-left: 26%;
+}
+
+.aboutcontent a{
+margin: 3em 0em 0em 6em;
+}
+
+.features img {
+    width: 120px;
+    padding-left: 22%;
+}
+
+    .features-1 img {
+        width: 120px;
+    padding-left: 22%;
+
+    }
+
+    .features-2 img {
+        width: 108px;
+    }
+
+    .features-1 p {
+        padding-bottom: 21px;
+    }
+    .features-2 p {
+        padding-bottom: 13px;
+    }
+
+    .service p{
+        padding-bottom: 25px;
+    }
+
+    .service-3{
+        width: 67vw;
+    }
+
+    .service-4{
+        width: 67vw;
+    }
+
+    .service-5 p{
+        padding: 6px;
+    }
+
+    .army-chief a {
+        font-size: 21px;
+    }
+
+    .form input {
+        width: 355px;
+        margin-left: 5px;
+    }
+
+    .form textarea{
+        width:355px;
+        margin-left: 5px;
+    }
+
+        .form [type=submit] {
+            margin-left: 6em;
+        }
+
+        .form [type=submit]:hover {
+          width: 160px;
+        }
+
+        .follow h2 {
+            margin-bottom: 0em;
+        }
+
+        .follow-1 p {
+            padding: 2px;
+        }
+
+        .follow-1a {
+           font-size: 22px;
+    }
+
+    .follow-2 a {
+        margin: 1em;}
+
+        .follow-2 p {
+            padding: 0px 0px 0px 50px;
+        }
+
+    .service-4 {
+        padding-bottom: 99px;
+    }
+
+}
+
+@media (max-width: 850px) 
+{
+
+    .angular ul {
+        margin-left: 18em;
+    }
+
+    .checkbtn {
+           
+        top: 2rem;
+        right: 9rem;
+    }
+
+    .pic{
+        width: 98vw;
+    }
+
+
+    .pic p:nth-child(1) {
+        padding: 5em 10em .5em 4em;
+    }
+
+    .pic p:nth-child(2) {
+        padding: 3px 0em 0.5em 1em;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 38em;
+    }
+
+    .about img{
+        padding: 6em 3em;
+    }
+
+    .aboutcontent a {
+        margin: 3em 0em 0em 4em;
+    }
+
+    .features-1 p {
+        padding-bottom: 15px;
+    }
+
+    .service-1 p {
+        padding: 9px;
+    }
+
+    .service-4 p
+    {
+        padding-bottom: 20px ;
+    }
+
+    .service-4{
+        height: 57vh;
+    }
+
+    .army-chief a {
+        font-size: 20px;
+    }
+
+    .form input {
+        width: 329px;
+        margin-left: 10px;
+    }
+
+    .form textarea {
+        width: 329px;
+        margin-left: 10px;
+    }
+
+    .form [type=submit] {
+        margin-left: 5em;
+    }
+
+    .form [type=submit]:hover {
+        width: 130px
+    }
+    .follow-1 h2 {
+        font-size: 24px;
+    }
+
+    .follow-1 img {
+        padding:0px;
+    }
+
+    .follow-2 p {
+        padding: 1px 0px 0px 12px;
+        font-size: small;
+    }
+
+    
+
+}
+
+@media (max-width: 800px)
+{
+    .angular .join {
+        right: -3.5em;
+    }
+
+    .angular input[type="checkbox"] {
+        margin-left: 14em;
+    }
+
+
+    .pic a {
+        margin: 1em 2em 0em 36em;
+    }
+
+    .pic {
+        width: 98vw;
+    }
+
+    
+
+.aboutcontent p:nth-child(1) {
+    font-size: 28px;}
+
+    .aboutcontent .social i:nth-child(1) {
+        padding-left: 24%;
+    }
+
+    .features img {
+        width: 120px;
+        padding-left: 18%;
+    }
+
+    .features-1 img {
+        width: 120px;
+        padding-left: 18%;
+    }
+
+    .features-2 img {
+        width: 98px;
+        padding-left: 26%;
+    }
+
+    .features-1 p {
+        padding-bottom: 25px;
+    }
+
+    .features p{
+        padding-bottom: 18px;
+    }
+
+    .service img {
+        padding-left: 30%;
+    }
+
+    .service-1 img {
+        padding-left: 30%;
+    }
+
+    .service-2 img {
+        padding-left: 35%;
+    }
+
+    .service p {
+        padding-bottom: 18px;
+    }
+
+    .service-4 {
+        height: 63vh;
+      
+    }
+
+    .service-4 img {
+        padding-left: 30%;
+    }
+
+    .service-3 img {
+        padding-left: 30%;
+    }
+
+    .service-5 img {
+        padding-left: 30%;
+    }
+
+    .army-chief a {
+        font-size: 19px;
+    }
+
+    .form input {
+        width: 315px;
+        margin-left: 10px;
+    }
+
+    .form textarea {
+        width: 315px;
+        margin-left: 10px;
+    }
+
+    .contform .photo img {
+        height: 92%;}
+
+        .img-box:hover {
+            width: 270px;
+            cursor: pointer;
+        }
+
+        .form [type=submit] {
+            margin-left: 4em;
+        }
+
+        .form [type=submit]:hover {
+            width: 110px
+        }
+
+        .follow-1 h2 {
+            font-size: 23px;
+        }
+
+    
+    .contform img.hover-img {
+        width: 100%;
+        height: 81%;
+    }
+
+       
+}
+
+
+@media (max-width: 750px)
+{
+
+
+    .hamburger {
+        left: -150%;
+    }
+
+    .angular .join {
+        right: -2.5em;
+    }
+    
+
+        .angular input[type="checkbox"] {
+        margin-left: 7em;
+    }
+
+    .pic p:nth-child(1) {
+        padding: 5em 10em .5em 2em;
+    }
+
+    .pic p:nth-child(2) {
+        padding: 3px 0em 0.5em 0.4em;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 33em;
+    }
+
+     .pic {
+        width: 98vw;
+    }
+
+    .aboutcontent p:nth-child(1) {
+        font-size: 24px;
+    }
+
+    .aboutcontent .social i:nth-child(1) {
+        padding-left: 17%;
+    }
+
+    .row {
+        display: flex;
+        width: 98vw;
+        flex-wrap: wrap;
+    }
+
+
+    .features {
+        width: 42vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+    .features-1 {
+        width: 46vw;
+        height: 109%;
+            margin: 1em 1em 0em 1em;
+  }
+
+.features-1 p{
+    padding-bottom: 29px;
+}
+
+    .features-2 {
+        width: 93vw;
+        height: 83vh;
+        margin: 1em 1em 0em 1em;
+    }
+
+    .features-2 img {
+        width: 123px;
+        padding-left: 41%;}
+
+        .features-2 a{
+            margin-left: 42%;
+        }
+
+        .features img {
+            width: 120px;
+            padding-left: 29%;
+        }
+
+        .features-1 img {
+            width: 120px;
+            padding-left: 31%;
+        }
+
+
+        .service-4 {
+            height: 67vh;
+        }
+
+        .service-4 p {
+           padding-bottom: 5px;
+        }
+
+        .img-box:hover {
+            width: 230px;
+            cursor: pointer;
+        }
+
+        .img-box:hover h2 {
+            opacity: 1;
+            top: 6px;
+        }
+
+        .army-chief a {
+            font-size: 18px;
+        }
+
+        .form input {
+            width: 281px;
+            margin-left: 18px;
+        }
+
+        .form textarea {
+            width: 281px;
+            margin-left: 18px;
+        }
+
+        .form select{
+            margin-left: 20px;
+        }
+
+        .form [type=submit] {
+            margin-left: 1em;
+        }
+
+        .form [type=submit]:hover {
+            width: 100px;
+        }
+
+        .follow p{
+            font-size: small;
+        }
+
+            .follow-1 h2 {
+        font-size: 21px;
+    }
+
+
+        .follow-1 a {
+        font-size: 22px;
+    }
+        
+
+}
+
+@media (max-width: 700px)
+
+{
+        .angular ul {
+        margin-left: 16em;
+    }
+
+        .checkbtn {
+        top: 2rem;
+        right: 8rem;
+    }
+
+      .pic p:nth-child(2) {
+        font-size: 550%;
+      }
+
+       .pic {
+        width: 98vw;
+    }
+
+         .pic a {
+        margin: 1em 2em 0em 29em;
+    }
+        .aboutcontent p:nth-child(1) {
+        font-size: 22px;
+    }
+
+    .aboutcontent p:nth-child(2) {
+        font-size: 18px;
+    }
+
+        .aboutcontent .social i:nth-child(1) {
+        padding-left: 10%;
+    }
+
+    .features-1{
+        height: 114%;
+        width: 45vw;
+    }
+
+    .features-2 img {
+        width: 115px;
+    }
+
+    .servicerow{
+        flex-wrap: wrap;
+    }
+
+    .service {
+        width: 44vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-1 {
+        width: 44vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-2 {
+        width: 95vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-2 img {
+        padding-left: 46%;
+    }
+.service-2 a{
+    margin-left: 46%;
+}
+
+    .service-3 {
+        width: 44vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-4 {
+        width: 44vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-4 {
+        height: 40vh;
+    }
+
+    .service-5 {
+        width: 44vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-5 {
+        width: 95vw;
+    margin: 1em 1em 0em 1em;
+    }
+
+    .service-5 img {
+        padding-left: 44%;
+    }
+.service-5 a{
+    margin-left: 46%;
+}
+
+.galleryrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+.img-box:hover {
+    width: 270px;
+    cursor: pointer;
+}
+
+.img-box:hover h2 {
+    opacity: 1;
+    top: 15px;
+    left: 7%;
+}
+
+.army-chief img {
+    padding: 5px;
+    width: 75%;
+}
+
+.army-chief a {
+    font-size: 16px;
+}
+
+
+.contact {
+    text-align: center;}
+    
+    .form input {
+        width: 245px;
+        margin-left: 23px;
+    }
+
+    .form textarea {
+        width: 245px;
+        margin-left: 23px;
+    }
+
+    .form label {
+        margin-left: 20px;
+    }
+
+    .form [type=submit] {
+        margin-left: 0em;
+    }
+
+    .follow h2 {
+        font-size: 20px;
+    }
+
+    .follow-1 h2 {
+        font-size: 19px;
+    }
+
+    .follow-2 h2 {
+        font-size: 20px;
+        margin-bottom: 3px;
+    }
+
+}
+
+@media (max-width: 650px)
+
+{
+
+    .angular input[type="checkbox"] {
+        margin-left: 5em;
+    }
+
+    .checkbtn {
+        top: 2rem;
+        right: 8rem;
+    }
+
+    .angular .join {
+        right: -1.5em;
+    }
+    .pic p:nth-child(2) {
+        font-size: 500%;
+    }
+
+     .pic {
+        width: 98vw;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 27em;
+    }
+
+    .pic {
+        width: 98vw;
+    }
+
+    .hamburger {
+
+        left: -150%;
+    }
+
+    .aboutcontent p:nth-child(1) {
+        font-size: 19px;
+    }
+
+    .aboutcontent a {
+        margin: 3em 0em 0em 1em;
+    }
+
+    .aboutcontent .social {
+        margin-left: 6em;
+    }
+    .features-1 {
+        height: 117%;
+                width: 44vw;
+    }
+
+    .features-1 p {
+        padding-bottom: 22px;
+    }
+
+    .servicerow {
+    display: flex;
+    width: 99vw;}
+
+    .service-1 p{
+        padding-bottom:18px
+    }
+
+    .service-4 {
+        height: 44vh;
+    }
+
+
+    .ourservices {
+        margin:20px;
+    }
+
+    .gallery{
+        margin:20px
+
+    }
+
+    .galleryrow {
+        width: 78%;
+    }
+
+    .chief {
+        margin: 20px;
+        }
+        .about .aboutcontent {
+            padding: 20px;}
+
+            .aboutcontent p:nth-child(3) {
+                margin-bottom: 1.5em;
+            }
+
+            .aboutcontent p:nth-child(1) {
+                font-size: 21px;
+            }
+
+            .army-chief a {
+                font-size: 15px;
+            }
+
+            .contact {
+                margin:20px
+            }
+
+            .contform img.hover-img {
+                margin: 3em 2em 2em 1em;
+            }
+
+            .contform img.hover-img {
+                width: 110%;
+                height: 76%;
+            }
+            .form input {
+                width: 232px;
+                margin-left: 23px;
+            }
+
+            .form textarea  {
+                width: 232px;
+                margin-left: 23px;
+            }
+
+
+            .follow-1 a {
+                font-size: 21px;
+            }
+
+            .follow-1 h2 {
+                font-size: 18px;
+            }
+
+            .follow-2 a {
+                margin: 10px;
+            font-size: small;
+            letter-spacing: 0px;
+            
+            }
+
+            .angular {
+                width: 98%;
+            }
+
+
+            .form [type=submit] {
+                margin-left: 10em;
+            }
+}
+
+@media (max-width: 600px){
+
+    .angular ul {
+        margin-left: 14em;
+    }
+
+        .angular input[type="checkbox"] {
+        margin-left: 3em;
+    }
+
+        .checkbtn {
+        top: 2rem;
+        right: 9rem;
+    }
+
+        .pic p:nth-child(2) {
+        font-size: 430%;
+    }   
+    
+    .pic p:nth-child(2) {
+        font-size: 430%;
+    }
+
+        .pic a {
+        margin: 1em 2em 0em 24em;
+    }
+
+
+        .aboutcontent p:nth-child(1) {
+        font-size: 18px;
+    }
+
+    .aboutcontent .social i:nth-child(1) {
+        padding-left: 4%;
+    }
+
+        .features-1 p {
+        padding-bottom: 17px;
+    }
+
+    .features-1 {
+        height: 119%;
+                width: 43vw;
+    }
+
+        .features-2 {
+        width: 91vw;
+        height: 88vh;
+    }
+
+        .features-2 img {
+        width: 123px;
+        padding-left: 38%;
+    }
+
+        .service-1 {
+        width: 43vw;}
+
+            .service-1 p {
+        padding-bottom: 9px;
+    }
+
+        .service-4 {
+        width: 43vw;}
+
+            .service-4 {
+        height: 49vh;
+    }
+
+        .galleryrow {
+        width: 83%;
+    }
+
+    .chiefrow {
+        flex-wrap: wrap;
+    }
+
+    .army-chief {
+    width: 33vw;}
+
+
+
+        .contform img.hover-img {
+        width: 96%;}
+
+        .contform .photo img {
+    width: 95%;
+    height: 80%;
+    margin: 1em 2em 2em 1em;}
+
+    .contform{
+        flex-wrap: wrap;
+        gap: 80px;
+    }
+
+
+    .form input {
+        width: 400px;
+        margin-left: 23px;
+    }
+
+    .form textarea {
+        width: 400px;
+        margin-left: 23px;
+    }
+
+        .form [type=submit] {
+        margin-left: 20em;
+    }
+
+
+    .news{
+        flex-wrap: wrap;
+
+    }
+
+        .follow-1 h2 {
+        font-size: 23px;
+    }
+
+    .follow-1 {
+    width: 40vw;
+    }
+
+
+    .follow-2 {
+    width: 40vw;
+    }
+
+       .follow-2 h2 {
+        font-size: 26px;
+    }
+
+        .follow-2 a {
+        margin: 10px;
+        font-size: medium;
+        letter-spacing: 1px;
+    }
+    
+}
+
+
+
+@media (max-width: 550px)
+{
+
+        .logo a {
+        font-size: 21px;
+    }
+
+        .angular ul {
+        margin-left: 13em;
+    }
+
+    .angular .join{
+        padding: 8px;
+    }
+
+        .checkbtn {
+        top: 2rem;
+        right: 7.8em;
+    }
+
+
+    .pic p:nth-child(2) {
+        font-size: 380%;
+    }
+
+        .pic a {
+        margin: 1em 2em 0em 21em;
+    }
+
+        .aboutcontent p:nth-child(1) {
+        font-size: 16px;
+    }
+
+    .aboutcontent p:nth-child(2) {
+        font-size: 17px;
+    }
+
+    .aboutcontent .social {
+        margin-left: 3em;
+    }
+
+    .features img {
+        width: 120px;
+        padding-left: 23%;
+    }
+
+        .features-1 {
+        height: 131%;
+                width: 42vw;
+    }
+
+     .features-1 img {
+        width: 120px;
+        padding-left: 23%;
+    }
+
+        .features-1 p {
+        padding-bottom: 22px;
+    }
+
+        .features-2 {
+        width: 91vw;
+        height: 91vh;
+    }
+
+        .service {
+        width: 43vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+        .service-3 {
+        width: 43vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+        .service-4 p {
+        padding-bottom: 22px;
+    }
+
+        .service-4 {
+        height: 58vh;
+    }
+
+
+        .galleryrow {
+        width: 91%;
+    }
+
+    .form label {
+        margin-left: 0px;
+    }
+
+    .form input{
+        margin-left:5px;
+    }
+
+    .form textarea{
+        margin-left:5px;
+    }
+
+    .form [type=submit] {
+        margin-left: 18em;
+    }
+
+    /* .form [type=submit]:hover {
+        width: 200px;
+    } */
+
+    .follow {
+        width: 32vw;}
+
+        .follow-2 {
+            width: 46vw;
+        }
+    
+
+        .footer div{
+            padding:16px;
+        }
+
+        .ourservices{
+                font-size: 60px;
+        }
+
+         .gallery{
+                font-size: 60px;
+        }
+
+         .chief{
+                font-size: 60px;
+        }
+
+         .contact{
+                font-size: 60px;
+        }
+
+    }
+
+@media (max-width: 500px){
+
+.logo a {
+        font-size: 17px;
+    }
+
+        .angular ul {
+        margin-left: 11.5em;
+    }
+
+    .checkbtn {
+        top: 2rem;
+        right: 9.8em;
+    }
+
+        .pic p:nth-child(2) {
+        font-size: 330%;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 18em;
+    }
+
+        .aboutcontent p:nth-child(1) {
+        font-size: 26px;
+    }
+
+        .aboutcontent .social {
+        margin-left: 0em;
+    }
+    .about img{
+    width: 90%;
+        padding: 0px 0px 0px 2.5em;}
+
+            .features {
+        width: 91vw;}
+
+            .features img{
+                padding-left: 35%;
+            }
+
+ .features a{
+                margin-left: 35%;
+            }
+
+             .features-1 {
+        width: 91vw;}
+
+            .features-1 img{
+                padding-left: 35%;
+            }
+
+ .features-1 a{
+                margin-left: 35%;
+            }
+
+                .features-2 img {
+        width: 110px;
+                }
+
+                    .service {
+        width: 41vw;
+                    }
+
+                        .service-1 p {
+        padding-bottom: 18px;
+    }
+
+      .service-3 {
+        width: 41vw;
+                    }
+
+        .service-4 {
+        height: 62vh;
+    }
+
+    .service-4 p {
+        padding-bottom: 12px;
+    }
+
+
+    .galleryrow {
+        width: 98%;
+    }
+
+    .img-box:hover {
+        width: 250px;
+        cursor: pointer;
+    }
+
+    .contform {
+        gap: 100px;
+    }
+
+    .form input {
+        width: 350px;
+    }
+
+    .form textarea {
+        width: 350px;
+    }
+
+    .form [type=submit] {
+        margin-left: 16em;
+    }
+
+    .follow {
+        width: 36vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+    .follow-1 h2 {
+        font-size: 22px;
+    }
+    .follow-2 {
+        width: 54vw;
+    }
+
+
+    .follow-2 a {
+        letter-spacing: 0px;
+    }
+
+
+    .footer div {
+        padding: 10px;
+    }
+
+}
+
+@media (max-width: 450px)
+{
+
+    .pic {
+        width: 97vw;
+            height: 20em;
+    }
+
+
+.angular span{
+    display: none;
+}
+
+
+.logo a {
+    font-size: 30px;
+}
+
+.angular input[type="checkbox"] {
+    margin-left: 1em;
+}
+    .angular ul {
+        margin-left: 10em;
+    }
+
+    .pic p:nth-child(2) {
+        font-size: 280%;
+    }
+
+    .pic p:nth-child(1) {
+        padding: 5em 10em .5em 1em;
+    }
+
+.pic a {
+        margin: 1em 2em 0em 15em;
+    }
+
+        .about img {
+        width: 85%;
+        padding: 15px 0px 15px 2.5em;
+    }
+
+    .features {
+        width: 91vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+    .features-1 {
+        width: 91vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+      .features-2 {
+        width: 91vw;
+        height: 100vh;
+    }
+
+        .ourservices {
+        font-size: 50px;
+    }
+
+    .service {
+        width: 91vw;
+    }
+
+        .service img {
+        padding-left: 38%;
+    }
+
+    .service a{
+        margin-left: 39%;
+    }
+
+    .service-1 {
+        width: 91vw;
+    }
+
+        .service-1 img {
+        padding-left: 38%;
+    }
+
+    .service-1 a{
+        margin-left: 39%;
+    }
+
+    .service-2 img {
+        padding-left: 42%;
+    }
+
+    .service-2 a {
+        margin-left: 40%;
+    }
+
+    .service-3 {
+        width: 91vw;
+    }
+
+        .service-3 img {
+        padding-left: 38%;
+    }
+
+    .service-3 a{
+        margin-left: 39%;
+    }
+
+    .service-4 {
+        width: 91vw;
+        height:42vh;
+    }
+
+        .service-4 img {
+        padding-left: 38%;
+    }
+
+    .service-4 a{
+        margin-left: 39%;
+    }
+
+    .service-5 img {
+        padding-left: 40%;
+    }
+
+    .service-5 a {
+        margin-left: 40%;
+    }
+
+
+    .gallery {
+        font-size: 50px;
+    }
+
+    .img-box {
+        width: 140px;
+        height: 250px;
+    }
+
+    .img-box:hover {
+        width: 250px;
+        height: 360px;
+        cursor: pointer;
+    }
+
+    .img-box p {
+        left: 9px;
+    }
+
+    .galleryrow {
+        width: 80%;
+    }
+
+    .chief {
+        font-size: 50px;
+    }
+
+    .army-chief {
+        width: 50vw;
+    }
+
+    .army-chief img {
+        width: 68%;
+    }
+
+    .chiefrow {
+        flex-wrap: wrap;
+        gap: 25px;
+    }
+
+    .contact {
+        font-size: 50px;
+    }
+
+    .contform {
+        gap: 140px;
+    }
+
+    .form input {
+        width: 300px;
+    }
+
+    .form textarea {
+        width: 300px;
+    }
+
+    .form [type=submit] {
+        margin-left: 13em;
+    }
+
+    .contform .photo img {
+        margin: 1em 0em 2em 1em;
+    }
+
+    .news {
+        flex-wrap: wrap;
+        gap: 25px;
+    }
+
+    .follow {
+        width: 50vw;
+    }
+
+    .follow-1 {
+        width: 55vw;
+    }
+
+    .follow-2 {
+        width: 59vw;
+    }
+
+    .follow h2 {
+        font-size: 27px;
+    }
+
+    .follow-1 h2 {
+        font-size: 24px;
+    }
+
+    .follow-2 h2 {
+        font-size: 36px;
+    }
+
+    .footer div {
+        padding: 10px;
+    }
+
+    .footer    i {
+           
+            font-size: 1rem;
+    }
+
+    .footer    p {
+    padding-left: 0rem;
+    }
+    
+
+
+
+}
+
+@media (max-width: 400px)
+{
+
+    .pic {
+        width: 97vw;
+            height: 20em;
+    }
+.angular span{
+    display: none;
+}
+
+.logo a {
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+
+    .angular ul {
+        margin-left: 8em;
+    }
+
+    .angular input[type="checkbox"] {
+        margin-left: 0em;
+    }
+
+    .pic p:nth-child(2) {
+        font-size: 220%;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 12em;
+    }
+
+    .features-2 {
+        width: 91vw;
+        height: 104vh;
+    }
+
+    .features img {
+        padding-left: 32%;
+    }
+
+    .features-1 img {
+        padding-left: 31%;
+    }
+
+
+    .features-2 img {
+        width: 105px;
+        padding-left: 33%;
+    }
+
+    .features-2 a {
+        margin-left: 34%;
+    }
+
+
+    .features {
+        width: 91vw;
+        margin: 1em 1em 0em 1em;
+    }
+
+    .features-1 {
+        width: 91vw;
+        margin: 1em 1em 0em 1em;
+    }
+    
+    .ourservices {
+        font-size: 40px;
+    }
+
+
+    .service-5 img {
+        padding-left: 37%;
+    }
+
+    .service-5 a {
+        margin-left: 36%;
+    }
+
+    .gallery {
+        font-size: 40px;
+    }
+
+    .chief {
+        font-size: 40px;
+    }
+
+    .contact {
+        font-size: 40px;
+    }
+
+    .contform .photo img {
+        width: 91%;
+        height: 65%;
+    }
+
+    .form input {
+        width: 250px;
+    }
+
+    .form textarea {
+        width: 250px;
+    }
+
+    .follow-1 h2 {
+        font-size: 25px;
+    }
+
+    .follow-1 {
+        width: 62vw;
+    }
+
+    .follow-1 {
+        width: 62vw;
+    }
+
+    .follow-2 {
+        width: 67vw;
+    }
+
+    .form [type=submit] {
+        margin-left: 10em;
+    }
+
+    .footer div{
+        padding:5px;
+    }
+
+    .footer div h3
+    {
+        font-size:17px;
+    }
+
+    .footer p {
+        font-size: 12px;
+    }
+
+
+}
+
+
+@media (max-width: 350px)
+{
+
+
+        .angular ul {
+        margin-left: 6.8em;
+    }
+
+        .angular input[type="checkbox"] {
+        margin-left: -1.8em;
+    }
+
+    .pic p:nth-child(2) {
+        font-size: 170%;
+    }
+
+        .pic {
+        width: 97vw;
+            height: 18em;
+    }
+
+    .pic a {
+        margin: 1em 2em 0em 9em;
+    }
+
+.aboutcontent p:nth-child(1) {
+        font-size: 22px;
+    }
+
+        .about img {
+        width: 85%;
+        padding: 40px 0px 40px 2.5em;
+    }
+
+        .features img {
+        padding-left: 28%;
+    }
+
+        .features a {
+        margin-left: 31%;
+    }
+
+         .features-1 img {
+        padding-left: 28%;
+    }
+
+        .features-1 a {
+        margin-left: 31%;
+    }
+
+        .features-2 img {
+        width: 100px;
+        padding-left: 30%;
+    }
+
+        .features-2 {
+        width: 91vw;
+        height: 113vh;
+    }
+
+        .features-2 a {
+        margin-left: 31%;
+    }
+
+        .ourservices {
+        font-size: 30px;
+    }
+
+        .service-4 {
+        height: 48vh;
+    }
+
+        .service a {
+        margin-left: 35%;
+    }
+
+        .service-1 a {
+        margin-left: 35%;
+    }
+
+        .service-2 a {
+        margin-left: 35%;
+    }
+
+        .service-3 a {
+        margin-left: 35%;
+    }
+
+        .service-4 a {
+        margin-left: 35%;
+    }
+
+        .service-5 a {
+        margin-left: 35%;
+    }
+
+    .img-box p {
+        left: 12px;
+        top: 45px;
+    }
+
+     .img-box h2 {
+        font-size: 15px;
+    }
+    .img-box:hover p {
+    opacity: 1;
+    bottom: 35px;
+}
+
+.gallery {
+        font-size: 30px;
+    }
+
+        .contact {
+        font-size: 30px;
+    }
+
+       .chief {
+        font-size: 30px;
+    }
+
+        .army-chief {
+        width: 60vw;
+    }
+
+        .form input {
+        width: 200px;
+    }
+
+       .form textarea {
+        width: 200px;
+    }
+
+        .form [type=submit] {
+        margin-left: 8em;
+    }
+
+        .follow {
+        width: 60vw;
+    }
+
+        .follow-1 h2 {
+        font-size: 22px;
+    }
+
+        .follow-2 h2 {
+        font-size: 30px;
+    }
+
+        .follow-2 {
+        width: 72vw;
+    }
+
+        .footer div h3 {
+        font-size: 12px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

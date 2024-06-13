@@ -1,0 +1,183 @@
+  
+ 	css gallery
+	
+	.galleryrow{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /* overflow: hidden; */
+/* flex-wrap: wrap; */
+   }
+
+   .gallerypics{
+    width: 10%;
+    height: 60vh;
+    /* margin: 1em 1em 0em 2em; */
+    background-color: #ffffff;
+    /* text-align: justify; */
+    border-radius: 10px;
+    /* box-shadow:5px 5px #f1f1f142; */
+border: 2px solid black;  
+transition: 1s  ease-in-out;
+/* position: relative; */
+  
+   }
+
+  
+
+   .gallerypics img{
+    width: 100%;
+    height: 50vh;
+    opacity: 0.7;
+   }
+   .gallerypics:hover{
+    width: 40vw;
+    opacity: 1;
+    /* height: 50vh; */
+   }
+   .gallerypics:hover .gallerypics p{
+    width: 100%;
+    font-size: 15px;
+    height: 50vh;
+   }
+
+   .gallerypics p{
+    width: 100%;
+    font-size: 10px;
+padding: 20px;
+    /* position: absolute; */
+    color: black;
+    
+   }
+
+
+   .gallerypics-1{
+    width: 40vw;
+    height: 50vh;
+    /* margin: 1em 1em 0em 2em; */
+    background-color: white;
+    text-align: justify;
+    border-radius: 10px;
+    /* box-shadow:5px 5px #f1f1f142; */
+border: 2px solid black;  
+position: relative;
+  
+   }
+
+   .gallerypics-1 img{
+    width: 20vw;
+    height: 50vh;
+   }
+   .gallerypics-1 img:hover{
+    width: 40vw;
+    /* transform: translatex(40%); */
+
+    transition: 1s  ease-in-out;
+    /* height: 50vh; */
+   }
+
+   .gallerypics-1 p{
+padding: 10px;
+    position: absolute;
+   }
+
+   .gallerypics-2{
+    width: 40vw;
+    height: 50vh;
+    /* margin: 1em 1em 0em 2em; */
+    background-color: white;
+    text-align: justify;
+    border-radius: 10px;
+    /* box-shadow:5px 5px #f1f1f142; */
+border: 2px solid black;  
+position: relative;
+  
+   }
+
+   .gallerypics-2 img{
+    width: 20vw;
+    height: 50vh;
+    /* position: absolute; */
+   }
+   .gallerypics-2 img:hover{
+    width: 40vw;
+    transition: 1s  ease-in-out;
+    /* position: relative; */
+    /* height: 50vh; */
+   }
+
+   .gallerypics-2 p{
+padding: 10px;
+    /* position: absolute; */
+   }
+
+   .gallerypics-3{
+    width: 20vw;
+    height: 50vh;
+    /* margin: 1em 1em 0em 2em; */
+    background-color: white;
+    text-align: justify;
+    border-radius: 10px;
+    /* box-shadow:5px 5px #f1f1f142; */
+border: 2px solid black;  
+position: relative;
+  
+   }
+   
+
+   .gallerypics-3 img{
+    width: 20vw;
+    height: 50vh;
+    /* position: relative; */
+    background-position: left;
+   }
+   .gallerypics-3 img:hover{
+    width: 40vw;
+    height: 50vh;
+    transform: translatex(-50%);
+
+    transition:  1s ease-in-out;
+    /* background: linear-gradient(to right, );
+    background-position: right; */
+
+    /* position: relative; */
+    /* height: 50vh; */
+    /* animation-name: moveright;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-direction: alternate-reverse; */
+
+    
+   }
+   @keyframes moveright {
+    0%{ width: 40vw; left:0px; right:200px;}
+  }
+
+   .gallerypics-3 p{
+padding: 10px;
+    position: absolute;
+   }
+
+   .gallerypics-3 p:hover{
+    color: black;
+   }
+
+html
+
+ <div class="gallerypics">
+        <img src="/Things/rescue.jpg" alt="">
+        <p>The Para Commandos are the most well-known of the Indian Army’s special forces.</p>
+    </div>
+
+    <div class="gallerypics-1">
+        <img src="/Things/action2a.jpg" alt="">
+        <p>The Para Commandos are the most well-known of the Indian Army’s special forces.</p>
+    </div>
+    <div class="gallerypics-2">
+        <img src="/Things/rescue.jpg" alt="">
+        <p>The Para Commandos are the most well-known of the Indian Army’s special forces.</p>
+    </div>
+    <div class="gallerypics-3">
+        <img src="/Things/rescue.jpg" alt="">
+        <p>The Para Commandos are the most well-known of the Indian Army’s special forces.</p>
+    </div>
