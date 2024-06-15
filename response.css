@@ -443,7 +443,8 @@
 @media (max-width: 900px) {
 
     .angular ul li{
-        display: none;
+        display: block;
+        flex-direction: row;
     }
     
     .dropbtn{
@@ -451,11 +452,21 @@
     }
 
     .angular ul {
-       margin-left: 20em;
+       margin-left: 2em;
+       flex-direction: column;
+       gap: 20px;
+    }
+
+    .angular ul  li a {
+        display: none;
+    }
+
+    .angular .join {
+        right: -22.5em;
     }
 
     .angular input[type="checkbox"]{
-        display: block;
+        display: none;
         margin-left: 19em;
         margin-top:8px;
       }
@@ -597,7 +608,11 @@ margin: 3em 0em 0em 6em;
 {
 
     .angular ul {
-        margin-left: 18em;
+        margin-left: 2em;
+    }
+
+    .angular .join {
+        right: -21.5em;
     }
 
     .checkbtn {
@@ -689,7 +704,7 @@ margin: 3em 0em 0em 6em;
 @media (max-width: 800px)
 {
     .angular .join {
-        right: -3.5em;
+        right: -19.5em;
     }
 
     .angular input[type="checkbox"] {
@@ -823,7 +838,7 @@ margin: 3em 0em 0em 6em;
     }
 
     .angular .join {
-        right: -2.5em;
+        right: -18em;
     }
     
 
@@ -966,7 +981,11 @@ margin: 3em 0em 0em 6em;
 
 {
         .angular ul {
-        margin-left: 16em;
+        margin-left: 2em;
+    }
+
+    .angular .join {
+        right: -17em;
     }
 
         .checkbtn {
@@ -1142,7 +1161,7 @@ margin: 3em 0em 0em 6em;
     }
 
     .angular .join {
-        right: -1.5em;
+        right: -15.5em;
     }
     .pic p:nth-child(2) {
         font-size: 500%;
@@ -1280,8 +1299,13 @@ margin: 3em 0em 0em 6em;
 @media (max-width: 600px){
 
     .angular ul {
-        margin-left: 14em;
+        margin-left: 2em;
     }
+
+    .angular .join {
+        right: -13.5em;
+    }
+
 
         .angular input[type="checkbox"] {
         margin-left: 3em;
@@ -1428,7 +1452,11 @@ margin: 3em 0em 0em 6em;
     }
 
         .angular ul {
-        margin-left: 13em;
+        margin-left: 2em;
+    }
+
+    .angular .join {
+        right: -12.5em;
     }
 
     .angular .join{
@@ -1565,12 +1593,16 @@ margin: 3em 0em 0em 6em;
     }
 
         .angular ul {
-        margin-left: 11.5em;
+        margin-left: 1em;
+    }
+
+    .angular .join {
+        right: -11.5em;
     }
 
     .checkbtn {
         top: 2rem;
-        right: 9.8em;
+        right: 8.8em;
     }
 
         .pic p:nth-child(2) {
@@ -1710,8 +1742,22 @@ margin: 3em 0em 0em 6em;
     margin-left: 1em;
 }
     .angular ul {
-        margin-left: 10em;
+        margin-left: 1em;
     }
+
+    .checkbtn {
+        top: 2rem;
+        right: 8em;
+    }
+
+    .hamburger {
+        width:35%;
+    }
+
+    .angular .join {
+        right: -10em;
+    }
+
 
     .pic p:nth-child(2) {
         font-size: 280%;
@@ -1943,7 +1989,11 @@ margin: 3em 0em 0em 6em;
 }
 
     .angular ul {
-        margin-left: 8em;
+        margin-left: 1em;
+    }
+
+    .angular .join {
+        right: -8.5em;
     }
 
     .angular input[type="checkbox"] {
@@ -2072,7 +2122,15 @@ margin: 3em 0em 0em 6em;
 
 
         .angular ul {
-        margin-left: 6.8em;
+        margin-left: 1em;
+    }
+
+    .angular .join {
+        right: -7em;
+    }
+
+    .hamburger {
+        width: 41%;
     }
 
         .angular input[type="checkbox"] {
